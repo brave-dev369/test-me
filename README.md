@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm [Brave] 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+%2F+Web+Developer;React+%7C+Tailwind+CSS+%7C+Framer+Motion;Building+clean%2C+animated%2C+responsive+UIs;Turning+ideas+into+pixel-perfect+products" alt="Typing SVG" />
